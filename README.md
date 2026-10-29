@@ -2,8 +2,6 @@
 
 A web app that reduces food waste. You snap a photo of your fridge, and EatSmart identifies the ingredients and suggests recipes that fit your dietary preferences and health goals.
 
-> Built at **BostonHacks 2025** by a team of 4. Original repo: [BradyXue1/Team-Tony](https://github.com/BradyXue1/Team-Tony)
-
 <!-- Add a screenshot here: ![EatSmart demo](docs/demo.png) -->
 
 ## How it works
@@ -57,5 +55,8 @@ npm start
 
 - **Hiya Verma** ([@hiyaverms](https://github.com/hiyaverms))
 - **Brady Xue** ([@BradyXue1](https://github.com/BradyXue1))
-- **Amanda Eng**
-- **Brady Schultz**
+- **Amanda Eng** ([@akeng746](https://github.com/akeng746)))
+- **Brady Schultz** ([@Bradysch131](https://github.com/Bradysch131))
+
+> Built at **BostonHacks 2025** by a team of 4. Original repo: [BradyXue1/Team-Tony](https://github.com/BradyXue1/Team-Tony)
+
