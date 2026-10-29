@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Kiwi-Grape Tofu Overnight Oats",
+    "ingredients": [
+      "Tofu (Silken preferred)",
+      "Milk (Dairy or non-dairy)",
+      "Oats (Rolled or Quick)",
+      "Kiwi",
+      "Grapes",
+      "Kombucha (Optional, for tang)",
+      "Sweetener (e.g., Maple syrup, optional)",
+      "Chia seeds or Vanilla extract (Optional)"
+    ],
+    "description": "A high-protein, creamy breakfast. Blend the **tofu** and **milk** (and a splash of kombucha for tang) until smooth. Mix the blended base with the **oats**. Layer or top with sliced **kiwi** and halved **grapes**. Refrigerate overnight. The tofu provides a thickness similar to yogurt, and the oats absorb the liquid for a quick, grab-and-go meal."
+  },
+  {
+    "name": "Savory Tofu & Veggie Bowl with Avocado-Kombucha Dressing",
+    "ingredients": [
+      "Tofu (Firm or Extra-Firm)",
+      "Steamed Veggies",
+      "Avocado",
+      "Kombucha",
+      "Soy Sauce or Tamari (Recommended extra)",
+      "Rice Vinegar (Recommended extra)",
+      "Sesame Oil (Recommended extra)",
+      "Salt and Pepper"
+    ],
+    "description": "A fresh and savory meal. **Steam or warm the tofu and veggies** together. Make a creamy dressing by blending the **avocado** with a few tablespoons of **kombucha**, a dash of **soy sauce**, **rice vinegar**, and salt/pepper until smooth. Drizzle the dressing generously over the tofu and vegetables. Serve warm or cold."
+  },
+  {
+    "name": "Tofu-Avocado Mash on Toast with Fruit Salad",
+    "ingredients": [
+      "Tofu (Firm or Extra-Firm)",
+      "Avocado",
+      "Steamed Veggies",
+      "Kiwi",
+      "Grapes",
+      "Oats",
+      "Milk",
+      "Bread/Toast (Recommended extra)",
+      "Salt, Pepper, and Lemon Juice (Recommended extras)"
+    ],
+    "description": "A two-part, balanced meal. For the savory component, mash the **avocado** and crumble in some firm **tofu**, seasoning with salt, pepper, and lemon juice. Spread on toast (if available) and serve alongside the **steamed veggies**. For the sweet side, toss the **kiwi** and **grapes** together and top with **oats** mixed with a splash of **milk** for a quick fruit salad."
+  }
+]
